@@ -1,29 +1,16 @@
 # Welcome to a Readme File
-## Second Welcome
-### Third Welcome
+## EN.705.603.82.SP23
+### This repository is a collection of small projects for Creating AI Ensemble Systems.
 
-*italic*
+**Contents**
 
-**bold**
+* Assignment 2: Computer Vision Transformation
+* Assignment 4: Tokenization, Stemming, and Lemmatization
+* Assignment 5: Categorical Data Transformation
+* Assignment 7: NoSQL with Neo4J and Mongo
+* Assignment 8: Azure Auto-ML
+* Assignment 9: AWS SageMaker
 
-* list 1
-* list 2
+**Link to Docker Hub Repository:**
+ *https://hub.docker.com/repository/docker/eyi5/705.603/general?editDescription=true*
 
-- list 1
-- list 2
-
-This decribes this particular project and directory level.
-
-
-[GitHub Readme1 Reference](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
-
-[General Readme2 Reference](https://www.mygreatlearning.com/blog/readme-file/#:~:text=When%20you%20create%20a%20repository,be%20easily%20converted%20to%20text)
-
-Bring in local graphic
-![GitHub Logo](./regan.png) 
-
-Bring in remote graphic
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png) 
-
-docker build template
-docker buildx build -t "eyi5/705.603:assignment1_1" --platform linux/amd64,linux/arm64 --push .

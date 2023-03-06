@@ -1,4 +1,4 @@
-# Welcome to a Readme File
+# Creating Artificial Intelligence Ensemble Systems
 ## EN.705.603.82.SP23
 ### This repository contains a series of small projects focused on creating AI ensemble systems. The projects aim to explore various techniques and approaches for building robust and accurate ensemble models in the field of artificial intelligence.
 

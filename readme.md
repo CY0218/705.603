@@ -24,3 +24,8 @@ Bring in local graphic
 
 Bring in remote graphic
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png) 
+
+docker build template
+docker buildx build -t "eyi5/705.603:assignment1_1" --platform linux/amd64,linux/arm64 --push .
+
+202-394-5161

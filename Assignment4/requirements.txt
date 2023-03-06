@@ -1,0 +1,10 @@
+numpy
+matplotlib
+sklearn
+pandas
+ pandas
+ nltk
+ stopwords
+ PorterStemmer
+ 
+ 

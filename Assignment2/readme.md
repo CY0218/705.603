@@ -1,26 +1,14 @@
 # Welcome to a Readme File
-## Second Welcome
-### Third Welcome
+## Module 3 - Assignment 3
 
-*italic*
+### CV Transformation
 
-**bold**
+This notebook demonstrates computer vision transformations that are frequently used in practical computer vision, a field that utilizes machine learning and image processing techniques to develop intelligent systems that can analyze and understand visual data from the real world.  As a part of the pre-processing step in this notebook, BikeShot4.jpg has been added to the file for image resizing and normalization.  Assitionally, to center the dataset, mean=[0.485, 0.456, 0.406] and std=[0.229, 0.224, 0.225] are used, which are standard techniques in practical computer vision to achieve accurate and consistent results across different datasets. 
 
-* list 1
-* list 2
-
-- list 1
-- list 2
-
-This decribes this particular project and directory level.
-
-
-[GitHub Readme1 Reference](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
-
-[General Readme2 Reference](https://www.mygreatlearning.com/blog/readme-file/#:~:text=When%20you%20create%20a%20repository,be%20easily%20converted%20to%20text)
-
-Bring in local graphic
-![GitHub Logo](./regan.png) 
-
-Bring in remote graphic
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png) 
+**Requirements to run Yi_Module3_Assignment#2.ipynb:**
+  - pandas
+  - numpy
+  - matplotlib
+  - pyplot
+  - cv2
+  

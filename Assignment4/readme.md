@@ -1,26 +1,13 @@
 # Welcome to a Readme File
-## Second Welcome
-### Third Welcome
+## Module 4 - Assignment 4
 
-*italic*
+### Tokenization, Stemming, and Lemmatization*
 
-**bold**
+This notebook demonstrates tokenization, stemming, and lemmatization techniques from natural language processing on the Amazon musical instrument review data obtained from Kaggle. The techniques are used to generate summary information from the reviews. Natural language processing is a field that deals with the interaction between computers and human languages. Tokenization involves breaking text into individual words or phrases (tokens). Stemming and lemmatization, on the other hand, are techniques used to reduce words to their base form. Stemming involves removing the suffixes from words to get the root form, while lemmatization involves converting words to their base form using a vocabulary and morphological analysis. These techniques help in extracting meaning from natural language and have a wide range of applications, including sentiment analysis, text classification, and machine translation, among others.
 
-* list 1
-* list 2
+**Requirements to run Amazon_Musical_Instrument_Review.ipynb:**
+  - pandas
+  - nltk ('stopwords', 'punkt', 'wordnet', 'omw-1.4').  
+  
+    Also, import functions from nlkt library for tokenization, stemnning, and lemmatization (stopwords, PorterStemmer, WordNetLemmatizer, word_tokenize).
 
-- list 1
-- list 2
-
-This decribes this particular project and directory level.
-
-
-[GitHub Readme1 Reference](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
-
-[General Readme2 Reference](https://www.mygreatlearning.com/blog/readme-file/#:~:text=When%20you%20create%20a%20repository,be%20easily%20converted%20to%20text)
-
-Bring in local graphic
-![GitHub Logo](./regan.png) 
-
-Bring in remote graphic
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png) 

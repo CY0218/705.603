@@ -11,3 +11,17 @@ This notebook demonstrates tokenization, stemming, and lemmatization techniques 
   
     Also, import functions from nlkt library for tokenization, stemnning, and lemmatization (stopwords, PorterStemmer, WordNetLemmatizer, word_tokenize).
 
+## image build multi platform command
+docker buildx build -t "eyi5/705.603:assignment4_1" --platform linux/amd64,linux/arm64 --push .
+
+## docker build 
+docker build -t eyi5/705.603:assignment4_1 .
+
+## docker run command
+docker run -it -v output:/output eyi5/705.603:assignment4_1
+
+## enter into bash in the image
+ docker run --entrypoint "/bin/bash" -it eyi5/705.603:assignment4_1
+
+## Publish to Dockerhub
+$ docker push eyi5/705.603:assignment4_1

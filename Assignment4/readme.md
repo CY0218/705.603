@@ -39,7 +39,7 @@ The dataset used in this project is included as Musical_instruments_reviews.csv.
 * unixReviewTime
 * reviewTime
 
-### Docker Repository commands 
+### Docker Commands 
 
 - image build multi platform command
 docker buildx build -t "eyi5/705.603:assignment4_1" --platform linux/amd64,linux/arm64 --push .
@@ -55,3 +55,6 @@ docker run -it -v output:/output eyi5/705.603:assignment4_1
 
 - Publish to Dockerhub
 $ docker push eyi5/705.603:assignment4_1
+
+**Link to Docker Repository:** 
+*https://hub.docker.com/repository/docker/eyi5/705.603/general*

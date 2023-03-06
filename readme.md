@@ -27,5 +27,3 @@ Bring in remote graphic
 
 docker build template
 docker buildx build -t "eyi5/705.603:assignment1_1" --platform linux/amd64,linux/arm64 --push .
-
-202-394-5161

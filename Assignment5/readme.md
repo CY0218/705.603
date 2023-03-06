@@ -29,7 +29,7 @@ The dataset used in this project is available at *https://www.kaggle.com/dataset
 
 - manufacturer_name
 - model_name
-- transmissiongit ad
+- transmission
 - color
 - engine_fuel
 - engine_type

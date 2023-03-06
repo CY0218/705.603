@@ -28,7 +28,7 @@ This will open the Jupyter Notebook softeware and project file in your web brows
 
 The dataset used in this project is included as Musical_instruments_reviews.csv.  This dataset is provided by Kaggle and contains the following attributes:
 
-####Features
+**Features**
 * reviewerID
 * asin
 * reviewerName
